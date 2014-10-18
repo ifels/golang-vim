@@ -1,0 +1,6 @@
+[submodule "github.com/jstemmer/gotags"]
+	path = github.com/jstemmer/gotags
+	url = https://github.com/jstemmer/gotags
+[submodule "github.com/nsf/gocode"]
+	path = github.com/nsf/gocode
+	url = https://github.com/nsf/gocode
